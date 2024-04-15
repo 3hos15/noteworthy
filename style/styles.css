@@ -1,6 +1,12 @@
+@font-face {
+    font-family: 'thegirlnextdoor';
+    src: url('/fonts/thegirlnextdoor.ttf') format('ttf');
+}
+
 body {
     background-color: black;
     color: white;
+    font-family: 'thegirlnextdoor';
 }
 
 img {
