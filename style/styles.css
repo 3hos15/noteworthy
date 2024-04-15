@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'thegirlnextdoor';
-    src: url('/fonts/thegirlnextdoor.ttf') format('ttf');
+    src: url('./fonts/thegirlnextdoor.ttf') format('ttf');
 }
 
 body {
