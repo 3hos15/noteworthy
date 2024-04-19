@@ -4,24 +4,69 @@
 }
 
 body {
+    margin-top: 2em;
     background-color: black;
     color: white;
-    font-family: 'thegirlnextdoor', 'Times New Roman', Times, serif;
+    font-family: 'thegirlnextdoor', Arial, Helvetica, sans-serif;
 }
+
 
 h1 {
     text-align: center;
+    font-size: 4em;
 }
+
 
 p {
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+
 }
 
 
-img {
+header img {
     display: block;
-    width: 50%;
+    width: 5%;
     max-width: 100%;
     margin-left: auto;
     margin-right: auto;
 }
+
+main img {
+    margin-top: 2em;
+    display: block;
+    width: 60%;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+footer p {
+    width: 100%;
+    color: black;
+    background-color: white;
+    margin-top: 3em;
+    padding: 0.5em;
+
+}
+
+
+main a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: brown;
+}
+
