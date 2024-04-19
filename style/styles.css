@@ -69,19 +69,21 @@ main a {
 
 }
 
-a {
+
+footer a {
     text-decoration: none;
     color: black;
+}
+
+.link a {
+    color: white;
 }
 
 a:hover {
     color: brown;
 }
 
-/* @media screen and (min-width: 400px) {
-    header img {
-        width: 100%;
-    }
- 
-		
-} */
+iframe {
+    height: 900px;
+    max-width: 100%;
+}
